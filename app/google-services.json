@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634798161533",
+    "project_id": "maiorovsevostyanov-newsapp",
+    "storage_bucket": "maiorovsevostyanov-newsapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634798161533:android:6a9a57eb773ad8faa27b14",
+        "android_client_info": {
+          "package_name": "ru.mirea.maiorovsevostyanov.rumireamaiorovsevostyanovnewsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCY-CRmX4IfHEteWLbLASY9eNrtcART40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
